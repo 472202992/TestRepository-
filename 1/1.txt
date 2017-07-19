@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 1
 
 test2:+1
 test2:+2
 test1:+1
 
+=======
+1
+>>>>>>> parent of 82f4768... test3:+1
